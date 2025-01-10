@@ -13,7 +13,7 @@ body {
 .quote-container {
   text-align: center;
   padding: 20px;
-  border: 2px solid #4caf50;
+  border: 2px solid #E8C3B8;
   border-radius: 10px;
   background-color: #fff;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -32,7 +32,7 @@ body {
 
 button {
   padding: 10px 20px;
-  background-color: #4caf50;
+  background-color: #E8C3B8;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -41,5 +41,5 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #E8C3B8;
 }
